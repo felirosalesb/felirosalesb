@@ -1,5 +1,5 @@
 <!-- Titulo --!>
-<h1 > Hola, me presento. Soy Felipe, un gusto! 👋 </h1>
+<h1 > Hola! 👋 </h1>
 
 <p >
   Desarrollador Full Stack con experiencia integral en Front-End y Back-End, construyendo soluciones web robustas y escalables. Cuento con sólidas habilidades como Administrador de Bases de Datos (DBA), garantizando la eficiencia y seguridad de la información. Mi expertise se extiende al desarrollo de aplicaciones móviles, creando experiencias intuitivas para usuarios. En constante aprendizaje y adaptación, siempre busco nuevas tecnologías para entregar proyectos innovadores y de alto impacto.
