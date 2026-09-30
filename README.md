@@ -1,12 +1,12 @@
-<h1 align="center">¡Hola, soy Feli</h1>
+<h1 >¡Hola, soy Feli</h1>
 
-<h3 align="center">Desarrollador Full Stack | DBA | Mobile Developer</h3>
+<h3 >Desarrollador Full Stack | DBA | Mobile Developer</h3>
 
-<p align="center">
+<p >
   Construyendo soluciones web y móviles robustas, escalables y seguras. En constante aprendizaje y adaptación para entregar proyectos innovadores de alto impacto.
 </p>
 
-<p align="center">
+<p 
   <a href="https://linkedin.com/in/[tu-perfil]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
