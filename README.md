@@ -1,6 +1,6 @@
 <h1 >¡Hola, soy Feli</h1>
 
-<h3 >Desarrollador Full Stack | DBA | Mobile Developer</h3>
+<h3 >Desarrollador de Software & DBA</h3>
 
 <p >
   Construyendo soluciones web y móviles robustas, escalables y seguras. En constante aprendizaje y adaptación para entregar proyectos innovadores de alto impacto.
