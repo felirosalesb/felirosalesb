@@ -19,10 +19,10 @@
 
 ## Sobre Mí
 
-- 💻 **Especialidad:** Desarrollo Full Stack con experiencia integral en Front-End y Back-End.
-- 📱 **Mobile:** Creación de experiencias intuitivas y fluidas para usuarios en dispositivos móviles.
-- 🗄️ **Datos:** Sólidas habilidades como Administrador de Bases de Datos (DBA), garantizando eficiencia, integridad y seguridad.
-- 🚀 **Enfoque:** Arquitecturas limpias, rendimiento y exploración continua de nuevas tecnologías.
+-  **Especialidad:** Desarrollo Full Stack con experiencia integral en Front-End y Back-End.
+-  **Mobile:** Creación de experiencias intuitivas y fluidas para usuarios en dispositivos móviles.
+-  **Datos:** Sólidas habilidades como Administrador de Bases de Datos (DBA), garantizando eficiencia, integridad y seguridad.
+-  **Enfoque:** Arquitecturas limpias, rendimiento y exploración continua de nuevas tecnologías.
 
 ---
 
